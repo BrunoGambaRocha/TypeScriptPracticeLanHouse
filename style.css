@@ -1,0 +1,14 @@
+.inputs{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+table {
+    margin: 0 auto;
+    margin-top: 20px;
+}
+th {
+    width: 20%;
+    background-color: #ccc;
+}
