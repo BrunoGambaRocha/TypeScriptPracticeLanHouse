@@ -1,4 +1,4 @@
-# TypeScript Practise - Lan House
+# TypeScript Practice - Lan House
 
 <img src="screenshot.png"/>
 
